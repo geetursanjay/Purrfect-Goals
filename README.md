@@ -27,18 +27,29 @@
 - **Version Control**: Git + GitHub
 
 ---
-## 📸 Preview
+## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](public/screenshots/login.png)
+![Login Page](screenshots/login.jpeg)
 
-### 🏹 Dashboard
-![Dashboard](public/screenshots/dashboard.png)
+### 🧍‍♀️ Profile Setup Page
+![Profile Page](screenshots/profilepage.jpeg)
 
-### 👤 Profile Setup
-![Profile](public/screenshots/profile.png)
+### 🎯 Goal Creation
+![Add Goals](screenshots/add_goals.jpeg)
 
-## 🚀 Getting Started
+### 🐾 Progress Tracker
+**25% Completion**
+![25% Badge](screenshots/25%.jpeg)
+
+**50% Completion**
+![50% Badge](screenshots/50%.jpeg)
+
+**75% Completion**
+![75% Badge](screenshots/75%.jpeg)
+
+**100% Completion**
+![100% Badge](screenshots/100%.jpeg)
 
 ### 1. Clone the Repo
 
