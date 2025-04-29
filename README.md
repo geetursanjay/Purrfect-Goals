@@ -40,16 +40,16 @@
 
 ### 🐾 Progress Tracker
 **25% Completion**
-![25% Badge](25%.jpeg)
+![25% Badge](25_percent.jpeg)
 
 **50% Completion**
-![50% Badge](50%.jpeg)
+![50% Badge](50_percent.jpeg)
 
 **75% Completion**
-![75% Badge](]75%.jpeg)
+![75% Badge](75_percent.jpeg)
 
 **100% Completion**
-![100% Badge](100%.jpeg)
+![100% Badge](100_percent.jpeg)
 
 ### 1. Clone the Repo
 
