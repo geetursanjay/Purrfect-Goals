@@ -30,26 +30,26 @@
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.jpeg)
+![Login Page](login.jpeg)
 
 ### 🧍‍♀️ Profile Setup Page
-![Profile Page](screenshots/profilepage.jpeg)
+![Profile Page](profilepage.jpeg)
 
 ### 🎯 Goal Creation
-![Add Goals](screenshots/add_goals.jpeg)
+![Add Goals](add_goals.jpeg)
 
 ### 🐾 Progress Tracker
 **25% Completion**
-![25% Badge](screenshots/25%.jpeg)
+![25% Badge](25%.jpeg)
 
 **50% Completion**
-![50% Badge](screenshots/50%.jpeg)
+![50% Badge](50%.jpeg)
 
 **75% Completion**
-![75% Badge](screenshots/75%.jpeg)
+![75% Badge](]75%.jpeg)
 
 **100% Completion**
-![100% Badge](screenshots/100%.jpeg)
+![100% Badge](100%.jpeg)
 
 ### 1. Clone the Repo
 
