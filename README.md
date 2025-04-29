@@ -27,6 +27,16 @@
 - **Version Control**: Git + GitHub
 
 ---
+## 📸 Preview
+
+### 🔐 Login Page
+![Login](public/screenshots/login.png)
+
+### 🏹 Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+
+### 👤 Profile Setup
+![Profile](public/screenshots/profile.png)
 
 ## 🚀 Getting Started
 
